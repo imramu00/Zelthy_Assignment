@@ -1,6 +1,6 @@
 if __name__ == '__main__':
-	A = [3, 6, 7, 4, 2, 7, 9, 1, 0, 3, 5, 6]
-	B = [1, 5, 6, 9, 7, 4, 2, 7, 9, 9, 2, 1]
+	A = list(map(int,input("Enter First Array separated by space ").strip().split()))
+	B = list(map(int,input("Enter Second Array separated by space ").strip().split()))
 	n = len(A)
 	m = len(B)
 	dp = [[0 for i in range(n + 1)] for i in range(m + 1)]
