@@ -6,8 +6,8 @@ port = 587 # Gmail
 # For Outlook host = 'smtp-mail.outlook.com', port = 587
 
 #Enter your email and password
-user = 'ramanathan.placement@gmail.com'
-password = 'ramanathan0@'
+user = ''
+password = ''
 print("Subject? ",end="")
 subject = input()
 print("Body? ",end="")
