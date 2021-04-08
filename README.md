@@ -1,6 +1,6 @@
 # Zelthy_Assignment
 
-### Installing Requirements
+# Installing Requirements
 > pip install -r requirements.txt
 
 ## Assignment 1
