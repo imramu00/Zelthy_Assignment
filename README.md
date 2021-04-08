@@ -6,6 +6,7 @@
 ## Assignment 1
 - Change host and port number accordingly in the source code.
 - Insert your username and password in user and password variable as string.
+
 Run the program using the command
   > python Assignment_1_Email.py
 
