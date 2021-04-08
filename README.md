@@ -16,3 +16,4 @@ Run the program using the command
 ## Assignment 3
 Run the program using the command
   > python Assignment_3_lss.py
+  - Enter both the first and second array separated by a single blank space
